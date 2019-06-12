@@ -11,6 +11,7 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    //printf("Hello world!\n");
+    printf("Adunare 1+1=%d", 1+1);
     return 0;
 }
